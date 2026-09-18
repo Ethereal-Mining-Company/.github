@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/mhd-deployment.png" alt="Project Banner" width="100%">
+  <img src="../images/mhd-deployment.png" alt="Project Banner" width="100%">
 </p>
 
 # Ethereal Mining Company
