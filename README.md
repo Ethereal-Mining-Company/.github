@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/images/mhd-deployment.png" alt="Project Banner" width="100%">
+  <img src="./.github/images/mhd-deployment.png" alt="Project Banner" width="100%">
 </p>
 # Ethereal Mining Company
 
