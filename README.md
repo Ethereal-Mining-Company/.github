@@ -20,3 +20,6 @@ Our operations within the Thermoelectric Calderas take advantage of a fractured 
 
 ## Orbital Fleet and Logistics
 To transport these harvested materials into low planetary orbit, the company utilizes a highly specialized fleet of orbital galleons constructed from the metallic-tinted timber of the Vallenwood trees, which biologically hyper-accumulate conductive trace metals from the soil. As established in our conversation history regarding Ethereal aeronautics, the metallic hulls of these vessels function as massive Faraday cages. As high-voltage electrical potential flows through the conductive structure, it generates a localized magnetosphere that physically traps a pocket of breathable atmospheric gases and deflects lethal cosmic radiation. Instead of chemical thrusters, our ships utilize massive sails woven with dense copper threading to catch ionized Birkeland currents, allowing our crews to ride the planet's magnetic flux directly into orbit.
+
+## Current Projects
+[OSAP (Orbital Sizing & Assessment Protocol)](https://github.com/Ethereal-Mining-Company/small-body-project)
