@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./.github/images/mhd-deployment.png" alt="Project Banner" width="100%">
+  <img src="images/mhd-deployment.png" alt="Project Banner" width="100%">
 </p>
+
 # Ethereal Mining Company
 
 The Ethereal Mining Company is a premier resource extraction and orbital logistics corporation operating across the planet of Ur. Our primary objective is to harvest the highly specialized geological materials required to construct and maintain the planetary orbital infrastructure. By systematically extracting conductive trace metals, piezoelectric quartz, and ferromagnetic ores, we provide the raw physical components necessary to operate Magnetohydrodynamic satellites. This allows us to safely siphon high-voltage electrical potential directly from the planet's magnetic dynamo, successfully overriding the natural transmission state of the planet to bypass the Inverse-Square Law.
